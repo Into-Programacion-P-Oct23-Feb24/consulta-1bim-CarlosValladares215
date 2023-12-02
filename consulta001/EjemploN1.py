@@ -1,0 +1,5 @@
+input("Digite una tecla para iniciar el programa")
+nombre = input("Ingrese su nombre: ")
+edad = input("Ingrese su edad :")
+ciudad = input("Ingrese la ciudad en la que vive: ")
+print("Hola ",nombre," de ",edad," años de edad, usted actualmente vive en ",ciudad)
